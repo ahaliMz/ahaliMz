@@ -1,35 +1,33 @@
-
 <h1 align="center">Hi 👋, I'm Abdul Halim</h1>
 
-<h3 align="center">
-Cybersecurity Enthusiast • Network Engineer • Linux Administrator • Automation Learner
-</h3>
+<h3 align="center">Cybersecurity Enthusiast • Network Engineer • Linux Administrator • Automation Learner</h3>
 
 <p align="center">
 Building secure systems, exploring emerging technologies, and continuously expanding my expertise in Cybersecurity, Networking, Linux, and Automation.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahalimz&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ahalimz&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔐 Passionate about Cybersecurity & Ethical Hacking
-- 🌐 Network Security & Infrastructure
-- 🐧 Linux Administration & Open Source
-- 🤖 Automation with Python, Bash & PowerShell
-- 📚 Currently Learning Ethical Hacking & Threat Analysis
-- 🤝 Open to Cybersecurity & Open Source Collaboration
+* 🔐 Passionate about Cybersecurity & Ethical Hacking
+* 🌐 Network Security & Infrastructure
+* 🐧 Linux Administration & Open Source
+* 🤖 Automation with Python, Bash & PowerShell
+* 📚 Currently Learning Ethical Hacking, Threat Analysis & Security Research
+* 🤝 Open to Cybersecurity & Open Source Collaboration
+* 🎯 Goal: Build Secure, Scalable & Reliable Systems
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,linux,bash,powershell,docker,git,github,mysql,vscode" />
+<img src="https://skillicons.dev/icons?i=python,linux,bash,docker,git,github,mysql,vscode" />
 </p>
 
 <p align="left">
@@ -41,6 +39,27 @@ Building secure systems, exploring emerging technologies, and continuously expan
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Automation_Anywhere-FF6F00?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahalimz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahalimz&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ahalimz&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ahalimz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -78,4 +97,3 @@ Building secure systems, exploring emerging technologies, and continuously expan
 <p align="center">
 ⚡ Learning • Building • Securing ⚡
 </p>
-```
