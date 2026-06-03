@@ -1,55 +1,71 @@
-<h2 align="left">Hi 👋! My name is Abdul Halim and I'm a Cybersecurity Enthusiast, Network Engineer, Linux Administrator & Automation Learner from Bangladesh 🇧🇩</h2>
+<h1 align="center">Hi 👋, I'm Abdul Halim</h1>
 
-###
+<h3 align="center">
+Cybersecurity Enthusiast • Network Engineer • Linux Administrator • Automation Learner
+</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahalimz&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahalimz&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
-</div>
+<p align="center">
+Building secure systems, exploring emerging technologies, and continuously expanding my knowledge in cybersecurity and network infrastructure.
+</p>
 
-###
+---
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjA0NmR4MjJnOWJ1YTFjYTFkY2Y0ZzRxaDF0emQ0OHJmNnB4a3d1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" />
+### 🚀 About Me
 
-###
+* 🔐 Passionate about Cybersecurity & Network Security
+* 🌐 Interested in Network Infrastructure & Administration
+* 🐧 Linux Enthusiast and System Administrator
+* 🤖 Exploring Automation & Scripting
+* 📚 Currently learning Ethical Hacking, Python Automation & Advanced Security Concepts
+* 🤝 Open to collaboration on Cybersecurity and Open Source projects
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-</div>
+---
 
-###
+### 🛠️ Technologies & Tools
 
-<div align="left">
-  <a href="https://linkedin.com/in/ahalim5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-  <a href="https://facebook.com/ahalim.151" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" />
-  </a>
-  <a href="https://instagram.com/ahalim.shuvo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
-  </a>
-  <a href="mailto:ahalim.cse20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
-</div>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,linux,bash,docker,git,github,mysql,vscode" />
+</p>
 
-###
+---
 
-<br clear="both">
+### 📊 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ahalimz&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahalimz&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
-###
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahalimz&theme=tokyonight"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ahalim5">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/ahalim.151">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/ahalim.shuvo">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:ahalim.cse20@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
