@@ -1,6 +1,6 @@
 # 👨‍💻 Abdul Halim
 
-```cpp
+
 // Cybersecurity Enthusiast | Network Engineer | Linux Administrator
 
 class AbdulHalim {
