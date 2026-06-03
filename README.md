@@ -1,40 +1,52 @@
-<h1 align="center">Abdul Halim</h1>
+# 👨‍💻 Abdul Halim
 
-<p align="center">
-  <b>Cybersecurity Enthusiast • Network Engineer • Linux Administrator • Automation Learner</b>
-</p>
+```cpp
+// Cybersecurity Enthusiast | Network Engineer | Linux Administrator
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Network+Engineer;Linux+Administrator;Automation+Learner;Always+Learning+Always+Building" />
-</p>
+class AbdulHalim {
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahaliMz&style=for-the-badge" />
-</p>
+private:
+    string role = "Cybersecurity Enthusiast";
 
----
+    vector<string> skills = {
+        "Network Engineering",
+        "Linux Administration",
+        "Automation",
+        "Cybersecurity"
+    };
 
-### 🚀 About Me
+    vector<string> currentlyLearning = {
+        "Ethical Hacking",
+        "Threat Analysis",
+        "Python Automation",
+        "Network Security"
+    };
 
-```yaml
-Name: Abdul Halim
-Location: Bangladesh
-Focus:
-  - Cybersecurity
-  - Network Engineering
-  - Linux Administration
-  - Automation
-
-Currently Learning:
-  - Ethical Hacking
-  - Network Security
-  - Python Automation
-  - Threat Analysis
+public:
+    void introduce() {
+        cout << "Learning • Building • Securing" << endl;
+    }
+};
 ```
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Network+Engineer;Linux+Administrator;Automation+Learner;Always+Learning+New+Technologies" />
+</p>
+
 ---
 
-### ⚙️ Tech Stack
+## 🚀 About Me
+
+* 🔐 Passionate about Cybersecurity & Ethical Hacking
+* 🌐 Network Engineering & Infrastructure
+* 🐧 Linux Administration
+* 🤖 Automation & Scripting
+* 📚 Continuously learning new technologies
+* 🎯 Goal: Build secure and reliable systems
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,linux,bash,docker,git,github,mysql,vscode" />
@@ -43,6 +55,7 @@ Currently Learning:
 <p align="center">
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Automation_Anywhere-FF6F00?style=for-the-badge"/>
@@ -50,11 +63,11 @@ Currently Learning:
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ahaliMz&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahaliMz&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahaliMz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahaliMz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -63,17 +76,26 @@ Currently Learning:
 
 ---
 
-### 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ahaliMz&theme=tokyonight&no-frame=true&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=ahaliMz&theme=tokyonight&no-frame=true&no-bg=true&row=1" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 📈 Activity Graph
 
 <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahaliMz&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
 <a href="https://linkedin.com/in/ahalim5">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -89,11 +111,12 @@ Currently Learning:
 <a href="mailto:ahalim.cse20@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -102,5 +125,9 @@ Currently Learning:
 ---
 
 <p align="center">
-<b>🔐 Learning • Building • Securing</b>
+  <img src="https://komarev.com/ghpvc/?username=ahaliMz&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+<b>🔐 Learning • Building • Securing 🔐</b>
 </p>
