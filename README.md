@@ -47,6 +47,7 @@ Cybersecurity Enthusiast • Network Engineer • Linux Administrator • Automa
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ahaliMz&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahaliMz&theme=algolia&no-frame=true&no-bg=true" />
 </div>
 
 ###
