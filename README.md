@@ -1,8 +1,4 @@
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Abdul%20Halim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p>
-
+```html
 <h1 align="center">Hi 👋, I'm Abdul Halim</h1>
 
 <h3 align="center">
@@ -22,12 +18,11 @@ Building secure systems, exploring emerging technologies, and continuously expan
 ## 🚀 About Me
 
 - 🔐 Passionate about Cybersecurity & Ethical Hacking
-- 🌐 Interested in Network Infrastructure & Security
-- 🐧 Linux Administrator and Open Source Enthusiast
-- 🤖 Exploring Automation with Python, Bash & PowerShell
-- 📚 Currently learning Advanced Network Security & Threat Analysis
-- 🤝 Open to collaboration on Cybersecurity & Automation Projects
-- 🎯 Goal: Building secure, scalable, and efficient systems
+- 🌐 Network Security & Infrastructure
+- 🐧 Linux Administration & Open Source
+- 🤖 Automation with Python, Bash & PowerShell
+- 📚 Currently Learning Ethical Hacking & Threat Analysis
+- 🤝 Open to Cybersecurity & Open Source Collaboration
 
 ---
 
@@ -46,27 +41,6 @@ Building secure systems, exploring emerging technologies, and continuously expan
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Automation_Anywhere-FF6F00?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahalimz&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahalimz&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahalimz&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ahalimz&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -96,16 +70,12 @@ Building secure systems, exploring emerging technologies, and continuously expan
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 <p align="center">
 ⚡ Learning • Building • Securing ⚡
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
 ```
