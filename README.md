@@ -46,8 +46,8 @@ Cybersecurity Enthusiast • Network Engineer • Linux Administrator • Automa
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ahaliMz&locale=en&mode=daily&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ahaliMz&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Abdul Halim&locale=en&mode=daily&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdul Halim&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3" height="150" />
 </div>
 
 ###
